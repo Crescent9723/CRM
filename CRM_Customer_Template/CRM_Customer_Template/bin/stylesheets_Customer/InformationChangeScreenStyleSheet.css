@@ -1,0 +1,54 @@
+#pane 
+{
+	-fx-background-color: lightcyan;
+}
+#btnOK
+{
+	-fx-background-color: lightblue;
+}
+#btnCancel
+{
+	-fx-background-color: lightblue;
+}
+#editLastName
+{
+	-fx-background-color: aqua;
+	-fx-text-fill: navy;
+	-fx-prompt-text-fill: navy;
+}
+#editFirstName
+{
+	-fx-background-color: aqua;
+	-fx-text-fill: navy;
+	-fx-prompt-text-fill: navy;
+}
+#editAddress
+{
+	-fx-background-color: aqua;
+	-fx-text-fill: navy;
+	-fx-prompt-text-fill: navy;
+}
+#editCity
+{
+	-fx-background-color: aqua;
+	-fx-text-fill: navy;
+	-fx-prompt-text-fill: navy;
+}
+#editPostalCode
+{
+	-fx-background-color: aqua;
+	-fx-text-fill: navy;
+	-fx-prompt-text-fill: navy;
+}
+#editCountry
+{
+	-fx-background-color: aqua;
+	-fx-text-fill: navy;
+	-fx-prompt-text-fill: navy;
+}
+#editPhone
+{
+	-fx-background-color: aqua;
+	-fx-text-fill: navy;
+	-fx-prompt-text-fill: navy;
+}
