@@ -1,0 +1,20 @@
+#pane 
+{
+	-fx-background-color: lightcyan;
+}
+#btnChangeInfo
+{
+	-fx-background-color: lightblue;
+}
+#btnChangePass
+{
+	-fx-background-color: lightblue;
+}
+#btnDeleteAccount
+{
+	-fx-background-color: lightblue;
+}
+#btnBack
+{
+	-fx-background-color: lightblue;
+}

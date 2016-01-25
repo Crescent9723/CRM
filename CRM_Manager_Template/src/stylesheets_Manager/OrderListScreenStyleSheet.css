@@ -1,0 +1,18 @@
+.table-cell {
+    -fx-text-fill: navy;
+    -fx-font-size: 14px;
+    -fx-alignment: center;
+}
+.column-header {
+	-fx-background-color: lightblue;
+}
+.table-row-cell { 
+    -fx-font-size: 12px;
+	-fx-background-color: lightcyan;
+    -fx-border-color: darkblue;
+    -fx-border-width: 1 1 1 1;
+}
+#btnBack
+{
+	-fx-background-color: lightblue;
+}

@@ -1,0 +1,28 @@
+#pane 
+{
+	-fx-background-color: lightcyan;
+}
+#btnMakeOrder
+{
+	-fx-background-color: lightblue;
+}
+#btnShowOrder
+{
+	-fx-background-color: lightblue;
+}
+#btnMakeQuery
+{
+	-fx-background-color: lightblue;
+}
+#btnShowQuery
+{
+	-fx-background-color: lightblue;
+}
+#btnAccountSettings
+{
+	-fx-background-color: lightblue;
+}
+#btnLogout
+{
+	-fx-background-color: lightblue;
+}
